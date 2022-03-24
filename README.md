@@ -4,6 +4,7 @@
 
 
 [![DEMO](https://img.shields.io/badge/-DEMO-maroon?style=for-the-badge)](https://tsakunova.github.io/news-api/migration-to-typescript/)
+[![DEMO](https://img.shields.io/badge/-Netlify-maroon?style=for-the-badge)](https://migration-to-typescript.netlify.app/)
 
 
 ![image](https://user-images.githubusercontent.com/55032592/144946358-840e9698-0ca1-4cc7-990c-9f8750f19e4d.png)![image](https://user-images.githubusercontent.com/55032592/144949341-93d6014d-7b64-46ab-8482-3f64cc81f22e.png)
